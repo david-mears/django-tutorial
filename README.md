@@ -1,4 +1,4 @@
-Following these tutorials.
+Following these tutorials:
 
 https://realpython.com/get-started-with-django-1/
 
